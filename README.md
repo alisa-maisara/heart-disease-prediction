@@ -8,7 +8,7 @@ A neural network classifier (`MLPClassifier`) that predicts whether a patient ha
 
 ## Dataset
 
-A public heart disease dataset provided by our lecturer and available on [Kaggle](https://www.kaggle.com/) *(replace with exact dataset URL)*. The CSV file is not included in this repository.
+A public heart disease dataset provided by our lecturer and available on Kaggle. The CSV file is not included in this repository.
 
 * **Size:** 1,025 records, 13 input features, and 1 binary target (`0` = no heart disease, `1` = heart disease)
 * **Features:** `age`, `sex`, `chest pain type`, `resting blood pressure`, `cholesterol`, `fasting blood sugar`, `resting ECG`, `maximum heart rate`, `exercise-induced angina`, `oldpeak`, `slope`, `number of vessels coloured by fluoroscopy`, and `thalassemia`
